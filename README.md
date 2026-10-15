@@ -28,6 +28,6 @@ Make sure to install the following libraries via the Arduino IDE Library Manager
 
 ## 🚀 How to Run
 1. Clone the repository or download the source files.
-2. Open `src/sketch.ino` in the Arduino IDE.
+2. Open `IoT-Vehicle-Accident-Alert-System.ino` in the Arduino IDE.
 3. Select **Arduino Nano** as your board and configure the correct COM port.
 4. Upload the firmware to your microcontroller.
